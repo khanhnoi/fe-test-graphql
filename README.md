@@ -4,10 +4,6 @@ Test graphql bên FE
 
 ```bash
 # development
-$ npm init -y
-$ npm i express
-$ npm i nodemon -D
-$ npm i mongoose
 $ npm i graphql
 $ npm i @apollo/client
 
